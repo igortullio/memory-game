@@ -2,6 +2,10 @@
 
 A modern, responsive Memory Game built with React, TypeScript, and Tailwind CSS.
 
+<img width="1425" alt="Screenshot 2025-05-05 at 18 47 00" src="https://github.com/user-attachments/assets/cbd4df4f-3fbb-4f07-b721-aeeeb6ab2d02" />
+<img width="1425" alt="Screenshot 2025-05-05 at 18 47 37" src="https://github.com/user-attachments/assets/a395a9bf-f372-4d2e-9f10-61c3372de2b5" />
+<img width="1425" alt="Screenshot 2025-05-05 at 18 49 02" src="https://github.com/user-attachments/assets/37b3161a-8bc2-4006-9983-8ab5fbc97993" />
+
 ## Features
 
 - 🎮 Classic Memory Game gameplay with smooth animations
